@@ -23,7 +23,7 @@ MaternalCare AI is built to directly address **Sustainable Development Goal 3.1*
 
 
 1. **Data Source**: Fire-Boltt Hulk captures biometric data.
-2. **Bridge**: NoCodeAPI fetches JSON vitals from Google Fit.
+2. **Bridge**: Google Cloud Console fetches JSON vitals from Google Fit.
 3. **Analysis**: Gemini 3 analyzes vitals against WHO clinical thresholds for Preeclampsia, Gestational Diabetes, and Anemia.
 4. **Action**: Triggers "Red Alerts" and generates automated WhatsApp referral notes for healthcare providers.
 
