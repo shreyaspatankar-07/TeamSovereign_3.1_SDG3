@@ -1,7 +1,0 @@
-{
-  "name": "MaternalCare AI",
-  "description": "A high-fidelity maternal health platform bridging wearable data and clinical intervention to reduce maternal mortality using AI-driven risk assessment.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
