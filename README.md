@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/16ycvwIsUbJ9ckdhqrskTg3RhCv4hzmEu
+View your app : [https://ai.studio/apps/drive/16ycvwIsUbJ9ckdhqrskTg3RhCv4hzmEu](https://maternalcare-ai-601986292179.asia-southeast1.run.app/)
 
 ## Run Locally
 
